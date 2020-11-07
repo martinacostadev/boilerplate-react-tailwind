@@ -4,7 +4,7 @@ Feel free to use it! Rename in clone command:
 
 ### `git clone https://github.com/kaizendevar/boilerplate-react-tailwind project-name`
 
-![Image of Boilerplate React and Tailwind CSS](https://imgur.com/UCAeLMQ)
+![Image of Boilerplate React and Tailwind CSS](https://i.imgur.com/UCAeLMQ.jpg)
 
 ## Available Scripts
 
