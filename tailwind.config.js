@@ -1,12 +1,11 @@
 module.exports = {
   future: {
-    // removeDeprecatedGapUtilities: true,
-    // purgeLayersByDefault: true,
+    purgeLayersByDefault: true,
   },
-  purge: [],
+  purge: ["./src/**/*.{html,js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
   variants: {},
-  plugins: [require("tailwindcss"), require("autoprefixer")],
+  plugins: [],
 };
